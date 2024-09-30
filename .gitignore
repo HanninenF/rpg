@@ -1,0 +1,22 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+.env
+
+# IDE-specifika filer
+.idea/
+.vscode/
+
+# Byggfiler
+dist/
+build/
+
+# Känsliga filer
+*.pem
+*.key
+
+# Systemfiler
+.DS_Store
+Thumbs.db
